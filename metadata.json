@@ -1,5 +1,5 @@
 {
-  "name": "Copy of SIK-RT/RW: Sistem Informasi Kependudukan Digital",
+  "name": "SIK-RT/RW: Sistem Informasi Kependudukan Digital",
   "description": "A comprehensive residency management system for RT/RW administrators in Indonesia, featuring citizen data management, family records, automated letter generation, and AI-powered data extraction from documents.",
   "requestFramePermissions": [
     "camera"
